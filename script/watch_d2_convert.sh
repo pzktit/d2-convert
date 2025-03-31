@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CONTAINER_NAME="d2-convert"
+CONTAINER_NAME="ghcr.io/pzktit/d2-convert"
 declare -A file_mtimes
 CONVERT_ARGS="$*"
 
